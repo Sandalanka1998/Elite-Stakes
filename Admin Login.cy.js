@@ -1,4 +1,4 @@
-describe('User Login',  () => {
+describe('User Login Automation',  () => {
 
     it('Functions', () => {
 
